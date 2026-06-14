@@ -2,9 +2,18 @@ body {
     font-family: Arial, sans-serif;
     max-width: 900px;
     margin: auto;
-    padding: 20px;
+    padding: 30px;
+    line-height: 1.6;
 }
 
 h1 {
-    color: #333;
+    font-size: 42px;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+a {
+    text-decoration: none;
 }
